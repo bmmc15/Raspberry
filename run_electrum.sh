@@ -1,4 +1,6 @@
 #!/bin/bash
 
 # Run Electrum
-python3 electrum
+echo "THIS SCRIPT SHOULD RUN DIRECTLY IN THE RASPBERRY PI!!!!!"
+cd Electrum-4.3.4/
+./run_electrum

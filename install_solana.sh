@@ -6,6 +6,6 @@ sudo apt-get install -y nodejs
 
 echo "Installing TypeScript and Solana."
 # Install TypeScript, and Solana
-sudo npm install -g typescript @solana/web3.js @solana/cli
+sudo npm install -g typescript @solana/web3.js
 
 echo "Installing Solana finished!"
